@@ -2,12 +2,7 @@
 
 <br>
 
-<img alt="Vue" src="https://img.shields.io/badge/-VUE-EC4A3F?style=flat-square&logo=vue.js&logoColor=white" /> <img alt="Vue" src="https://img.shields.io/badge/-Docker-EC4A3F?style=flat-square&logo=docker&logoColor=white" /> 
-
-
-![Mozilla Add-on](https://img.shields.io/amo/v/docker?color=%236699ff&label=docker&logo=docker&logoColor=%2366ffff&style=flat-square) ![Mozilla Add-on](https://img.shields.io/amo/v/spring?color=%2333ff99&label=springboot&logo=springboot&logoColor=%2333ff99&style=flat-square) ![Mozilla Add-on](https://img.shields.io/amo/v/redis?color=%2333ff99&label=redis&logo=redis&logoColor=%2333ff99&style=flat-square)
-
-
+<img alt="Vue" src="https://img.shields.io/badge/-Vue-33ff99?style=flat-square&logo=vue.js&logoColor=white" /> <img alt="Docker" src="https://img.shields.io/badge/-Docker-33ccff?style=flat-square&logo=docker&logoColor=white" /> <img alt="Java" src="https://img.shields.io/badge/-Java-33ccff?style=flat-square&logo=JDK&logoColor=white" /> <img alt="SpringBoot" src="https://img.shields.io/badge/-SpringBoot-33ccff?style=flat-square&logo=springboot&logoColor=white" /> <img alt="SpringCLoud" src="https://img.shields.io/badge/-SpringCLoud-33ccff?style=flat-square&logo=SpringCLoud&logoColor=white" /> <img alt="Redis" src="https://img.shields.io/badge/-Reids-33ccff?style=flat-square&logo=redis&logoColor=white" /> <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-33ccff?style=flat-square&logo=rabbitmq&logoColor=white" /> 
 
 
 <br>
